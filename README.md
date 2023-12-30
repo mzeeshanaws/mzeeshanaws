@@ -1,7 +1,8 @@
 -  Hi, I’m @Muhammad Zeeshan
--  I’m interested in Cloud Services 
--  I’m currently learning AWS, Python, Terraform & GitHub Actions
--  I’m looking to collaborate on Entry Level Cloud Solutions Projects
+-  I’m interested in Cloud Services
+-  I’m currently persuing AWS Certifications
+-  Currently working as an Associate Platform Engineer at AKS iQ
+-  I’m looking to collaborate on Cloud Solutions Projects
 -  You can reach me on my email mzeeshanaws@gmail.com
 
 <!---
